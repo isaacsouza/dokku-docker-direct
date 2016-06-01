@@ -24,7 +24,7 @@ case "$SUBCOMMAND" in
     "$0" docker-direct "$@"
     ;;
   help)
-   cat && cat<<EOF
+   cat<<EOF
     docker-direct <cmd>                             issue Docker command <cmd>
     dodi <cmd>                                      shortcut for docker-direct
 EOF
