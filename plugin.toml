@@ -1,0 +1,4 @@
+[plugin]
+description = "dokku docker direct"
+version = "0.0.1"
+[plugin.config]
